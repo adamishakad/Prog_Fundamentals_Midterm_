@@ -131,13 +131,9 @@ You can use one big `try` / `catch` block around your code to handle any input e
 
 --- 
 
-This Markdown format provides a clear structure for presenting the information about determining the quadrant of given coordinates.
-
----
 
 ## Rubric
 
-Certainly! Here's the rubric formatted into a table:
 
 | Category                              | Points | Description                                                                                      |
 |---------------------------------------|--------|--------------------------------------------------------------------------------------------------|
@@ -171,4 +167,3 @@ Certainly! Here's the rubric formatted into a table:
 | Cartesian Plane Extension           | 20     | Implements the bonus task of diving deeper into the Cartesian plane functionality                  |
 | **Total Points**                      | **300**|                                                                                                  |
 
-This table format provides a clear breakdown of the rubric categories, points allocated for each category, and corresponding descriptions for evaluation criteria.
